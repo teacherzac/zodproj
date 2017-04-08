@@ -1,0 +1,29 @@
+.zodProd {
+/*	display: inline-block;*/
+	width: 750px;
+	background-color: lightslategrey;
+	text-align: center;
+	padding-top: 25px;
+	margin: 0 auto;
+}
+
+#userSign {
+	text-align: center;
+	font-family: cursive;
+}
+
+#also {
+	font-size: 111px;
+}
+
+.hidThings {
+	text-align: center;
+}
+
+#logo {
+	width: 333px;
+}
+
+body {
+	background-color: cyan;
+}
